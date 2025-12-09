@@ -1,0 +1,27 @@
+  Name: Ivan Petrenko
+  Birth: 1990-05-10
+  Height: 180cm
+  Eyes: green
+  Features: [scar on left cheek]
+  Imprisoned: 2020-01-10
+  Released: 2025-01-10
+
+
+  Name: Olena Koval
+  Birth: 1992-08-20
+  Height: 165cm
+  Eyes: gray
+  Features: [tattoo on arm]
+  Imprisoned: 2021-03-15
+  Released: N/A
+
+
+  Name: Demyd Nikolenko
+  Birth: 2007-05-03
+  Height: 190cm
+  Eyes: Black
+  Features: []
+  Imprisoned: 2025-03-05
+  Released: N/A
+
+
